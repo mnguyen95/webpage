@@ -1,6 +1,6 @@
 ---
-title: "Best website ever"
-author: "Melanie"
+title: "Melanie's Homepage"
+author: "Melanie Nguyen"
 date: "Last updated on `r Sys.Date()`"
 output:
   html_document:
